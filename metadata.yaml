@@ -1,0 +1,38 @@
+_repo: Hortus-VitaeEssays-on-the-Gardening-of-Life_26800
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lee, Vernon
+    alias: Paget, Violet
+    birthdate: 1856
+    deathdate: 1935
+    gutenberg_agent_id: '2683'
+    url: http://www.gutenberg.org/2009/agents/2683
+    wikipedia: http://en.wikipedia.org/wiki/Vernon_Lee
+description: ''
+gutenberg_issued: '2008-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26800'
+  lccn: 04015585
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PR'
+tableOfContents: Dedication -- The garden of life -- In praise of governesses -- On
+  going to the play -- Reading books -- Hearing music -- Receiving letters -- New
+  friends and old -- Other friendships -- A hotel sitting-room -- In praise of courtship
+  -- Knowing one's mind -- Against talking -- In praise of silence -- The blame of
+  portraits -- Sere and yellow -- A stage jewel -- My bicycle and I -- Puzzles of
+  the past -- Making presents -- Going away -- Coming back -- Losing one's train --
+  The hanging gardens.
+title: 'Hortus Vitae
+
+  Essays on the Gardening of Life'
+url: http://www.gutenberg.org/ebooks/26800
